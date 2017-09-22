@@ -5,5 +5,5 @@ function forLoop(array) {
     }
     else {
       array.push("I am ${i} strange loop${s}.")
-    }
-  return array;
+  return array
+}
