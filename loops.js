@@ -14,9 +14,9 @@ function wrapGift(gift) {
 */
 
 function forLoop(array) {
- for (let i = 0; i < 25; i++)
-    console.log("I am" + ${i} "strange loops.")
-       (let i = 1;
-         console.log("I am" + i + "strange loop.")
+ for (let i = 1; i < 1; i++)
+    console.log("I am" + i + "strange loop.")
+   else (let i = 2; i < 25; i++)
+   console.log("I am" + ${i} + "strange loop.")
 return array
 }
